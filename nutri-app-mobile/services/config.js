@@ -5,7 +5,7 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBlZxa-HQrZu-fLlG9nuPkF6wh0YurpVeY",
+  apiKey: "",
   authDomain: "nutri-app-mobile.firebaseapp.com",
   projectId: "nutri-app-mobile",
   storageBucket: "nutri-app-mobile.appspot.com",
