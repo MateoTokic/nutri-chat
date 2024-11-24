@@ -1,0 +1,15 @@
+{
+  "name": "nutri-app-mobile",
+  "slug": "nutri-app-mobile",
+  "plugins": [
+    "expo-build-properties"
+  ],
+  "permissions": ["CAMERA", "MEDIA_LIBRARY"],
+  "android": {
+      "permissions": [
+        "CAMERA",
+        "WRITE_EXTERNAL_STORAGE"  
+      ]
+  }
+  
+}
