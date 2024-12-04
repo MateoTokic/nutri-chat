@@ -3,14 +3,14 @@ Nutri-Chat is a mobile application that I developed for the needs of my Master's
 
 
 
-##🚀 Features
+🚀 ##Features
 Smart Chatbot: Provides nutrition advice based on user queries.
 Interactive UI: User-friendly interface for a smooth experience.
 Personalized Recommendations: Tailored suggestions based on user input and preferences.
 Scalable Design: Built for potential expansion and adaptability.
 
 
-##🛠️ Technologies Used
+🛠️ ##Technologies Used
 Frontend: React Native
 Backend: Python Flask
 User Authentication: Firebase Authentication
